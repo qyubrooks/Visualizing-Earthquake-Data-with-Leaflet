@@ -11,6 +11,15 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 * Create a legend that will provide context for map data.
 
+## Technologies
+* Leaflet
+* JaveScript
+* D3.js
+* HTML5
+* CSS
+* API
+
+
 ### Satelite Map
 ![Satelite Map](sateliteMap.png)
 
